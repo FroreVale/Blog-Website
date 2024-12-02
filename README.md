@@ -1,5 +1,5 @@
 # Blog Website
-A full-stack blog website that allows users to create, edit, delete, and view blogs. The project is divided into two parts: the client (frontend) and the API (backend).
+A full-stack blog website that allows users to create, edit, delete, and view blog posts. The project is divided into two parts: the client (frontend) and the API (backend).
 
 ## Features
 - User authentication (login/logout)
